@@ -1,10 +1,4 @@
-//============================================================================
-// Name        : 03_Create_End_Point
-// Programer   : Mert AceL
-// Version     : 1.0
-// Copyright   : Boost.Asio C++ Network Programming Cookbook
-// Description : 03_Create_End_Point
-//============================================================================
+
 #include <boost/asio.hpp>
 #include <iostream>
 using namespace boost;
